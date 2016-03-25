@@ -39,5 +39,6 @@ public class SearchByKeywordStory {
 
     @Pending @Test
     public void searching_by_ambiguious_keyword_should_display_the_disambiguation_page() {
+        //altgceva
     }
 } 
